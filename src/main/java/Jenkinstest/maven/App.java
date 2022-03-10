@@ -1,8 +1,7 @@
 package Jenkinstest.maven;
 
 /**
- * Hello world muthu!
- *  
+ * Hello world!
  *
  */
 public class App 
